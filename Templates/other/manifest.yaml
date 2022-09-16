@@ -1,6 +1,6 @@
-name: Test_Template3#$
+name: Test_Template3
 version: 1.0.0
-description: A very good template.
+description: A very good template.你好
 engine:
   type: ARM
   templatePath: azuredeploy.json
